@@ -1,4 +1,4 @@
-import "./header.css"
+import "./Header.css"
 import { FcGlobe } from "react-icons/fc"
 import { TiArrowSortedDown } from "react-icons/ti"
 const Header = () => {
