@@ -1,5 +1,5 @@
 import React from "react"
-import "./sections.css"
+import "./Sections.css"
 import kuda from "../svg/money.svg"
 import imageLeft from "../svg/imageLeft.png"
 import imageRight from "../svg/imageTopRight.png"
